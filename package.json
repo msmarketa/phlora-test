@@ -1,0 +1,15 @@
+{
+  "name": "puxdesign",
+  "version": "1.0.0",
+  "description": "A coding test for PUXdesign",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx browser-sync start --server --files \"*.css\" \"*.html\" \"*.js\""
+  },
+  "author": "Marketa Andreev Dragoun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msmarketa/puxtest/issues"
+  },
+  "homepage": "https://github.com/msmarketa/puxtest#readme"
+}
